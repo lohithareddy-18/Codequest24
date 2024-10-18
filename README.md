@@ -1,4 +1,5 @@
 Intelligent Student Counseling System
+
 Project Overview
 The Intelligent Student Counseling System (ISCS) is a comprehensive platform designed for universities offering diverse undergraduate and postgraduate programs. The system is aimed at identifying and addressing factors contributing to poor academic performance and student retention issues, such as low attendance, difficulty understanding course material, exam failures, health concerns, and financial challenges. By analyzing student data, the platform provides visual insights and tailored solutions to career counselors, enabling them to better support students academically, emotionally, and personally.
 
@@ -27,7 +28,7 @@ Installation
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/intelligent-student-counseling-system.git
+git clone https://github.com/lohithareddy-18/Codequest24/tree/main
 cd intelligent-student-counseling-system
 2. Backend Setup
 Install Python dependencies:
