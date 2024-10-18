@@ -3,6 +3,8 @@ Intelligent Student Counseling System
 Project Overview
 The Intelligent Student Counseling System (ISCS) is a comprehensive platform designed for universities offering diverse undergraduate and postgraduate programs. The system is aimed at identifying and addressing factors contributing to poor academic performance and student retention issues, such as low attendance, difficulty understanding course material, exam failures, health concerns, and financial challenges. By analyzing student data, the platform provides visual insights and tailored solutions to career counselors, enabling them to better support students academically, emotionally, and personally.
 
+https://www.google.com/imgres?q=Intelligent%20Student%20Counseling%20System&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQFRhT-D7tS0Hg%2Farticle-cover_image-shrink_600_2000%2Farticle-cover_image-shrink_600_2000%2F0%2F1706899343648%3Fe%3D2147483647%26v%3Dbeta%26t%3DH7CGq-JNAnXcgIlwVeIX013fcZuXlTVhU9pHpNIWKQI&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fstudent-counselling-management-system-sai-karthik-puru-kkfmc&docid=AO3YZuCBaRNQGM&tbnid=L9iKVgUHyH1p9M&vet=12ahUKEwiv66n265eJAxWhzzgGHaWuC6oQM3oECBcQAA..i&w=756&h=378&hcb=2&ved=2ahUKEwiv66n265eJAxWhzzgGHaWuC6oQM3oECBcQAA
+
 Key Features
 Data Collection & Analysis: Automatically collects data on student performance, attendance, course difficulty, health, and financial status.
 Personalized Counseling Recommendations: Provides three sets of tailored solutions per student focusing on academic support, well-being, and personal development.
