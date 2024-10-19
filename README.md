@@ -87,6 +87,7 @@ Academic Support: Suggestions for tutoring, course material reviews, or exam pre
 Personal Well-being: Recommendations for managing stress, mental health support, and wellness programs.
 External Support: Financial aid options or resources to help with personal and family issues.
 Performance Prediction: Alerts for students at risk of failing or dropping out, allowing early interventions by counselors.
+Output website : https://sweet-pika-3b1215.netlify.app/
 
 Intelligent Techniques
 Machine Learning: The system utilizes decision trees, random forests, or neural networks to identify the root causes of student challenges and predict academic outcomes.
